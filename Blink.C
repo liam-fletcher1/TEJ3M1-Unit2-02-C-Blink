@@ -3,7 +3,7 @@
  Turns on LED on for one second, then off for one second, repeatedly,
  but the interval increases each time by 1 more second
  Created On: Nov 2021
- Created By: Rodas Nega
+ Created By: Liam Fletcher
 */
 
 int blinkTime = 1000; // set variable to 1000
